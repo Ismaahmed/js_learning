@@ -26,3 +26,4 @@ function sayHello() {
 sayHello();
 
 
+git add .
